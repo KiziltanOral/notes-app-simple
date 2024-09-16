@@ -19,5 +19,4 @@ This is a simple Notes application built with **Node.js** and **React.js**. The 
 - **React.js**: Frontend framework for building the user interface.
 - **TypeScript**: Superset of JavaScript for type-safe code.
 - **Prisma**: ORM for interacting with the database.
-- **PostgreSQL**: Database (depending on your Prisma configuration).
-- **Axios**: For making HTTP requests from the frontend to the API.
+- **PostgreSQL**: Database (depending on your Prisma configuration). 
